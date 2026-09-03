@@ -1,2 +1,16 @@
 Component,Type,Active,Environment,Last Verified,Version
 WordPress,Core,Yes,Staging,2026-09-03,7.1
+Astra,Theme,Yes,Staging,2026-09-03,4.13.10
+Advanced Custom Fields,Plugin,Yes,Staging,2026-09-03,6.8.9
+Astra Pro,Plugin,Yes,Staging,2026-09-03,4.13.8
+BBQ Pro,Plugin,Yes,Staging,2026-09-03,3.9.1
+Enable Media Replace,Plugin,Yes,Staging,2026-09-03,4.2.2
+FileBird Lite,Plugin,Yes,Staging,2026-09-03,6.5.8
+FluentSMTP,Plugin,Yes,Staging,2026-09-03,2.3.1
+Lightbox with PhotoSwipe,Plugin,Yes,Staging,2026-09-03,5.13.0
+LiteSpeed Cache,Plugin,Yes,Staging,2026-09-03,7.9.1
+Login Lockdown Pro,Plugin,Yes,Staging,2026-09-03,5.64
+Meow Lightbox,Plugin,NO,Staging,2026-09-03,5.6.0
+Rank Math SEO,Plugin,Yes,Staging,2026-09-03,1.0277.2
+Two Factor Authentication,Plugin,Yes,Staging,2026-09-03,1.16.0
+UpdraftPlus,Plugin,Yes,Staging,2026-09-03,1.26.7
